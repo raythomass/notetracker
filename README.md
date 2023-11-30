@@ -4,7 +4,7 @@
 
 This note tracker is able to be used to post new notes, read already written notes, and delete existing notes, all while using a polished UI. 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
